@@ -1,0 +1,42 @@
+body
+{
+    margin: 0;
+    font: normal 16px Arial, Helvetica, sans-serif;
+    color: #f4f4f4;
+}
+
+#particles-js
+{
+    background-color: #333333;
+    height: 400px;
+}
+
+#login
+{
+    background: #fff;
+    opacity: 0.9;
+    padding: 2em;
+    border: 1px solid #cccccc;
+    position: absolute;
+    top: 100px;
+    left: 50px;
+}
+
+#login label
+{
+    color: #000000;
+}
+
+#login input
+{
+    padding: 0.5em;
+    margin-bottom: 1em;
+}
+
+#login #loginBtn
+{
+    padding: 0.5em 1em;
+    background-color: #1B1717;
+    color: #d4d4d4;
+    border: 1px solid #ddd;
+}
